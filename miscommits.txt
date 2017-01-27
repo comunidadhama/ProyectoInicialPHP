@@ -1,0 +1,23 @@
+commit d0d4cd6f6114a290d39c5ce8f38ce40bec3dee48
+Author: Herman Morales Ara <hmoralesara@hotmail.com>
+Date:   Fri Jan 27 01:14:45 2017 -0500
+
+    Segundo cambio en strings.php, cambio de color de letra y de relleno
+
+commit c38d79b39ca37a42788b8d5239fb1b40c650f4da
+Author: Herman Morales Ara <hmoralesara@hotmail.com>
+Date:   Fri Jan 27 00:59:40 2017 -0500
+
+    Agregamos mensaje github a strings.php
+
+commit e99f7f8f462c8bac3a2aa0e745aefc99b05ae44f
+Author: Herman Morales Ara <hmoralesara@hotmail.com>
+Date:   Fri Jan 27 00:52:51 2017 -0500
+
+    Agregamos un segundo archivo del proyecto strings.php
+
+commit c169c129968bdc8fda2a06db53df0817166a9b88
+Author: Herman Morales Ara <hmoralesara@hotmail.com>
+Date:   Fri Jan 27 00:47:59 2017 -0500
+
+    Iniciamos agregando el archivo obtener_datos.php

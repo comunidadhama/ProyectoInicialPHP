@@ -6,8 +6,8 @@
 
 	<style> 
 		.resaltar {
-			color: red;
-			background-color: green;
+			color: #1593C7;
+			background-color: #C3BD14;
 			font-weight: bold;
 			text-align: center;}
 	</style>
@@ -42,6 +42,7 @@ if ($resultado) {
 	echo "cadenas son iguales <br>";
 }
 //echo "El resultado es " . $resultado . "<br>";
+echo "<p class='resaltar'> Realizamos cambios para GITHUB </p>"
 ?>
 </body>
 </html>
