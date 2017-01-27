@@ -43,6 +43,7 @@ if ($resultado) {
 }
 //echo "El resultado es " . $resultado . "<br>";
 echo "<p class='resaltar'> Realizamos cambios para GITHUB </p>"
+
 ?>
 </body>
 </html>
