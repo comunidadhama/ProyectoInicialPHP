@@ -48,8 +48,8 @@ if ($resultado) {
 	echo "cadenas son iguales <br>";
 }
 //echo "El resultado es " . $resultado . "<br>";
-echo "<p class='resaltar'> Realizamos cambios para GITHUB </p>"
-echo "<p class='resaltarRamaTest'> Realizamos cambios para GITHUB en la rama Test </p>"
+echo "<p class='resaltar'> Realizamos cambios para GITHUB </p>";
+echo "<p class='resaltarRamaTest'> Realizamos cambios para GITHUB en la rama Test </p>";
 
 ?>
 </body>
