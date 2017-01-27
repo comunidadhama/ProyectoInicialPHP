@@ -16,6 +16,12 @@
 			background-color: #11F631;
 			font-weight: bold;
 			text-align: center;}	
+
+		.btnEnviar{
+			color: #D70D0D;
+			border-radius: 10px;
+			alignment-baseline: central;
+		}	
 	</style>
 </head>
 <body>
@@ -52,5 +58,7 @@ echo "<p class='resaltar'> Realizamos cambios para GITHUB </p>";
 echo "<p class='resaltarRamaTest'> Realizamos cambios para GITHUB en la rama Test </p>";
 
 ?>
+
+<input class="btnEnviar" type="submit" name="btnEnviando" value="Enviar" id="btnEnviando">
 </body>
 </html>
