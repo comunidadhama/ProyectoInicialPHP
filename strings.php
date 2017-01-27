@@ -10,6 +10,12 @@
 			background-color: #C3BD14;
 			font-weight: bold;
 			text-align: center;}
+
+		.resaltarRamaTest {
+			color: #5B0EF7;
+			background-color: #11F631;
+			font-weight: bold;
+			text-align: center;}	
 	</style>
 </head>
 <body>
@@ -43,6 +49,7 @@ if ($resultado) {
 }
 //echo "El resultado es " . $resultado . "<br>";
 echo "<p class='resaltar'> Realizamos cambios para GITHUB </p>"
+echo "<p class='resaltarRamaTest'> Realizamos cambios para GITHUB en la rama Test </p>"
 
 ?>
 </body>
