@@ -61,5 +61,6 @@ echo "<p class='resaltarRamaTest'> Realizamos cambios para GITHUB en la rama Tes
 ?>
 
 <input class="btnEnviar" type="submit" name="btnEnviando" value="Enviar" id="btnEnviando">
+<input class="btnEnviar" type="submit" name="btnCancelar" value="Cancelar" id="btnCancelar">
 </body>
 </html>
