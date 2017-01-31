@@ -21,6 +21,7 @@
 			color: #D70D0D;
 			border-radius: 10px;
 			alignment-baseline: central;
+			border: 10px solid #F91842;
 		}	
 	</style>
 </head>
