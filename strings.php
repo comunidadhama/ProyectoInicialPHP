@@ -26,7 +26,7 @@
 	</style>
 </head>
 <body>
-<p class="resaltar"> hola parrafossss</p>
+<p class="resaltar"> hola te da hm1</p>
 <?php
 echo '<p class="resaltar">Esto es un ejemplo de parrafo creado con comillas simples</p>';
 echo "<p class='resaltar'> Esto es un ejemplo de parrafo creado con comillas dobles</p>";
